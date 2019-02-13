@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.patelinfo.pos",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.6.1",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "com.patelinfo.pos",
+    "packageFolder": "com/patelinfo/pos",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MmY0ZGRkYTBhMzI0NGEzZjdiMTYzMDU0OTQxODVkN2M0MDJiOGViNzRkMmMyMmIzNGJkNTBiZDYwNDYwOGU2NzE3NGE2Yjc1M2E0YjJhMTIwZWQxODg1N2JhZTc1MmZjNTMxMDlhZDQ4YTdlNzA3MmZkY2ZlNDI1ZmQwM2QwZjU=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "ar-ly"
+    ]
+  }
+}
